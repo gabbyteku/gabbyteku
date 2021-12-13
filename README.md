@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabbyteku
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning to design, implement experiments and analyze data
+- 🌱 I’m currently learning to design and implement experiments, as well as analyze data
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me gabbyteku@gmail.com
 
